@@ -403,3 +403,15 @@ compile_commands.json
 .idea/.name
 
 .idea/ArtClassificationAndClustering.iml
+
+model/saved_model.pb
+
+model/variables/variables.data-00000-of-00001
+
+model/variables/variables.index
+
+all_images.npy
+
+images_preds.npz
+
+*.ann
